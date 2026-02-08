@@ -1,43 +1,67 @@
 # 👋 Привет! Меня зовут Мальвина
 
-**🚀 Juniour DevOps Engineer**
+**🚀Junior Python Developer**
 
-Интересуюсь облачными технологиями, администрированием систем и машинным обучением. 
-Умею работать в команде, придумывать архитектуру проектов, администрировать Linux-системы и базы данных, а также разрабатывать проекты на Python.
+Интересуюсь backend-разработкой Python. Имею опыт создания веб-приложений и интеграции ML-моделей. Умею работать в команде, cтремлюсь создавать чистый, поддерживаемый и эффективный код.
 
-Открыта для стажировок и совместных проектов!
+*Открыта к предложениям о работе, стажировкам и совместным проектам!*
 
 ---
 
 ### 🎓 Образование
 
-- **Школа 21 (Sberbank School of 21)**: Обучение по направлению "Разработка".
-- **Университет**: Специальность "Математика и компьютерные науки" с фокусом на Data Science (Профиль: Наука о данных).
+- **Школа 21 (Sber)**: Обучение по направлению "Разработка".
+- **Университет**: Специальность "Математика и компьютерные науки" (Профиль: Наука о данных).
 
 ---
 
 ### 🛠 Мой стек
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
 ---
 
-**🎯 Что я изучаю сейчас**
+## 💼 Ключевые навыки
 
-| Область | Технологии | Цель |
-|---------|------------|------|
-| **☁️ Облачные технологии** | Docker | Научиться разворачивать и управлять облачной инфраструктурой |
-| **☁️ Облачные технологии** | Kubernetes | Научиться оркестрировать контейнеры и управлять кластерами в масштабируемых средах |
-| **🔧 Автоматизация** | Python Scripting, CI/CD | Автоматизировать рутинные задачи развертывания |
-| **🤖 Machine Learning** | Scikit-learn, PyTorch Basics | Понимать основы ML для DevOps (MLOps) |
+### Backend-разработка
+- Python (ООП, асинхронное программирование, модульная архитектура)
+- Веб-фреймворки: Django, Flask
+- Проектирование REST API, работа с микросервисной архитектурой
+- Реализация паттернов проектирования (MVC, Dependency Injection)
 
+### Работа с данными
+- SQL (PostgreSQL), Django ORM, проектирование баз данных
+- Обработка данных: Pandas, парсинг JSON/XML
+- Интеграция LLM в приложения
+
+### Инструменты и практики
+- Контейнеризация: Docker
+- Система контроля версий: Git (merge, pull requests, разрешение конфликтов)
+- ОС: Linux/Ubuntu, Bash-скриптинг
+- Методологии: Agile, работа в команде, code review
+
+### Смежные технологии
+- Основы ML (Scikit-learn) для интеграции в продукты
+- Языки: C, C++, C#, Kotlin (базовое понимание)
+
+---
+
+## 🌟 Дополнительная информация
+- **LeetCode**: Решено 100+ задач по алгоритмам и структурам данных (Easy/Medium)
+- **Языки:** Русский (родной), Английский (Intermediate)
 ---
 
 **📩Связаться со мной**
