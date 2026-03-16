@@ -18,7 +18,6 @@
 ### 🛠 Мой стек
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
@@ -38,12 +37,12 @@
 
 ### Backend-разработка
 - Python (ООП, асинхронное программирование, модульная архитектура)
-- Веб-фреймворки: Django, Flask
+- Веб-фреймворки: Flask
 - Проектирование REST API, работа с микросервисной архитектурой
 - Реализация паттернов проектирования (MVC, Dependency Injection)
 
 ### Работа с данными
-- SQL (PostgreSQL), Django ORM, проектирование баз данных
+- SQL (PostgreSQL), проектирование баз данных
 - Обработка данных: Pandas, парсинг JSON/XML
 - Интеграция LLM в приложения
 
@@ -54,8 +53,8 @@
 - Методологии: Agile, работа в команде, code review
 
 ### Смежные технологии
-- Основы ML (Scikit-learn) для интеграции в продукты
-- Языки: C, C++, C#, Kotlin (базовое понимание)
+- Основы ML для интеграции в продукты
+- Языки: C, C#, Kotlin (базовое понимание)
 
 ---
 
